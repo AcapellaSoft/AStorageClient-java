@@ -1,0 +1,1 @@
+Тут будет client side code of AStorage 
